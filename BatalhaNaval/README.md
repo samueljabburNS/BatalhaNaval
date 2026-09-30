@@ -60,9 +60,13 @@ Nao ha dependencias externas (apenas biblioteca padrao).
 
 ## Decisoes de projeto
 
+
 - Persistencia em JSON (`data/estatisticas.json`, `data/ultima_partida.json`).
 - Jogada repetida e rejeitada sem consumir a rodada (RN02).
 - A vez sempre alterna, mesmo apos acerto.
 - IA do computador (bonus): varre em padrao de xadrez e, apos um acerto,
   ataca as casas vizinhas ate afundar o navio.
 - Entradas invalidas e Ctrl+C / Ctrl+D sao tratados sem quebrar o programa.
+
+
+ ## Video de demonstracao [Assista no YouTube](https://youtu.be/zT7a1DCt584)
